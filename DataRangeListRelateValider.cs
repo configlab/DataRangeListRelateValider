@@ -8,11 +8,11 @@ namespace ConfigLab.Comp.DataType.SceneData
 {
     /// <summary>
     /// summary：针对(正整数,认为相邻值相差大于1则有间隔)的区间数据集合的关系校验
-	/// remark：一些不同积分区间的不同待遇政策，不同价格区间的折扣政策这些设置的时候，通常要校验各个区间是否有交叉，空白未设置，超出范围等。
+    /// remark：一些不同积分区间的不同待遇政策，不同价格区间的折扣政策这些设置的时候，通常要校验各个区间是否有交叉，空白未设置，超出范围等。
     /// create date：2020-4-11
-    /// author：pcw
-	/// blogs:  http://cnblogs.com/taohuadaozhu
-	/// github地址:https://github.com/configlab/DataRangeListRelateValider
+    /// author：pcw 
+    /// blogs:  http://cnblogs.com/taohuadaozhu
+    /// github地址:https://github.com/configlab/DataRangeListRelateValider
     /// </summary>
     public class DataRangeListRelateValider
     {
