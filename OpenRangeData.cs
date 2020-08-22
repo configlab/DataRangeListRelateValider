@@ -9,8 +9,8 @@ namespace ConfigLab.Comp.MetaData.MetaEntitys
     /// summary：RangeData
     /// create date：2020-4-11
     /// author：pcw
-	/// blogs:  http://cnblogs.com/taohuadaozhu
-	/// github地址:https://github.com/configlab/DataRangeListRelateValider
+    /// blogs:  http://cnblogs.com/taohuadaozhu
+    /// github地址:https://github.com/configlab/DataRangeListRelateValider
     /// </summary>
     public class OpenRangeData
     {
